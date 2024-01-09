@@ -1,5 +1,8 @@
-### Hi there 👋
+# SONG MIN SEO 👋
 
+### 열심히 살고싶은 개발자 희망생
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alstj1543)](https://solved.ac/alstj1543/)
 <!--
 **alstj2384/alstj2384** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
