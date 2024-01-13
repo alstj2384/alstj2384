@@ -1,6 +1,9 @@
 # SONG MIN SEO 👋
 
-### 열심히 살고싶은 개발자 희망생
+### 學而不思則罔,思而不學則殆
+*"배우기만 하고 생각하지 않으면 얻음이 없고, 생각하기만 하고 배우지 않으면 위태롭다."*
+## 열심히 살고싶은 개발자 희망생
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alstj1543)](https://solved.ac/alstj1543/)
 <!--
