@@ -20,6 +20,7 @@
 | Organization                |  Certificate        | Score  | Period      |
 |-------------------------|------------------|-------|-------------|
 | IITP |TOPCIT (Test Of Practical Competency in ICT)  | 585   | 2024.10     |
+| KData | SQL Developer (SQLD) | Pass | 2024.11|
 
 &nbsp;
 
