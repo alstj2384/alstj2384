@@ -21,6 +21,8 @@
 |-------------------------|------------------|-------|-------------|
 | IITP |TOPCIT (Test Of Practical Competency in ICT)  | 585   | 2024.10     |
 | KData | SQL Developer (SQLD) | Pass | 2024.11|
+| IITP  | TOPCIT (Test Of Practical Competency in ICT)  | 762  | 2025.05  |
+| 한국산업인력공단  | 정보처리기사  | PASS  | 2025.06  |
 
 &nbsp;
 
