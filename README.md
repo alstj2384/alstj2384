@@ -11,7 +11,7 @@
 |Organization | Experience                   | Period                |
 |------------|--------------------------|---------------------|
 |LikeLion| 멋쟁이 사자처럼 12기      | 2024.03 ~ 2024.12  |
-|SSAFY| SSAFY 인턴십 1기         | 2024.07 ~ 2024.07  |
+|SSAFY| SSAFY 인턴십 1기         | 2024.07.02 ~ 2024.07.12  |
 |SW 중심대학| UNLV Experiential and Cultural Program | 2025.07.14 ~ 2025.08.04 |
 
 &nbsp;
@@ -20,9 +20,9 @@
 
 | Organization                |  Certificate        | Score  | Period      |
 |-------------------------|------------------|-------|-------------|
-| KData | SQL Developer (SQLD) | Pass | 2024.11|
-| IITP  | TOPCIT (Test Of Practical Competency in ICT)  | 762  | 2025.05  |
-| 한국산업인력공단  | 정보처리기사  | PASS  | 2025.06  |
+| KData | SQL Developer (SQLD) | Pass | 2024.12.13|
+| IITP  | TOPCIT (Test Of Practical Competency in ICT)  | 762  | 2025.05.24  |
+| 한국산업인력공단  | 정보처리기사  | PASS  | 2025.06.13  |
 
 &nbsp;
 
@@ -31,7 +31,7 @@
 
 | Competition                                            | Award | Period      |
 |---------------------------------------------------|-----------|-------------|
-| 2024 ICPC 대학생 프로그래밍 경진대회 서울 지역 1차 예선 | 동상        | 2024.11     |
+| 2024 ICPC 대학생 프로그래밍 경진대회 서울 지역 1차 예선 | 동상        | 2024.11.20     |
 
 &nbsp;
 &nbsp;
