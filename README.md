@@ -6,17 +6,17 @@
 
 &nbsp;
 
-## Experience
+## 📖 Experience
 
 |Organization | Experience                   | Period                |
 |------------|--------------------------|---------------------|
-|LikeLion| 멋쟁이 사자처럼 12기      | 2024.03 ~ 2024.12  |
+|LikeLion| 멋쟁이 사자처럼 12기      | 2024.03.01 ~ 2024.12.20  |
 |SSAFY| SSAFY 인턴십 1기         | 2024.07.02 ~ 2024.07.12  |
 |SW 중심대학| UNLV Experiential and Cultural Program | 2025.07.14 ~ 2025.08.04 |
 
 &nbsp;
 
-## Certificates
+## 🏅 Certificates
 
 | Organization                |  Certificate        | Score  | Period      |
 |-------------------------|------------------|-------|-------------|
@@ -26,7 +26,7 @@
 
 &nbsp;
 
-## Rewards
+## 🏅 Rewards
 
 
 | Competition                                            | Award | Period      |
