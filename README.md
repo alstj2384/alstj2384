@@ -10,20 +10,11 @@
 
 |Organization | Experience                   | Period                |
 |------------|--------------------------|---------------------|
-|LikeLion| 멋쟁이 사자처럼 12기      | 2024.03.01 ~ 2024.12.20  |
+|LikeLion| 멋쟁이 사자처럼 대학 12기      | 2024.03.01 ~ 2024.12.20  |
 |SSAFY| SSAFY 인턴십 1기         | 2024.07.02 ~ 2024.07.12  |
 |SW 중심대학| UNLV Experiential and Cultural Program | 2025.07.14 ~ 2025.08.04 |
 |WoowaCourse| 우아한테크코스 8기 BE | 2026.02 ~  |
 
-
-&nbsp;
-
-## 🏅 Rewards
-
-
-| Competition                                            | Award | Period      |
-|---------------------------------------------------|-----------|-------------|
-| 2024 ICPC 대학생 프로그래밍 경진대회 서울 지역 1차 예선 | 동상        | 2024.11.20     |
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alstj1543)](https://solved.ac/alstj1543/)
